@@ -15,9 +15,9 @@
  
  🌱 I’m currently open to remote jobs
  
-💬 Ask me about ** flutter app Node.js, React, Firebase... or anything [here]()**
+💬 Ask me about flutter app, Node.js, React, Firebase... or anything [here]()
 
-⚡ Fun fact ** I work very fast **
+⚡ Fun fact  I work very fast 
 
  </div>
  
