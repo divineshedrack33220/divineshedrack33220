@@ -11,7 +11,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working in a tech company <a href="https://vaultwinltd.com/">
  
  🌱 I’m currently open to remote jobs
  
