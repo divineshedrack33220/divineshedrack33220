@@ -13,8 +13,8 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **react native, Supabase, AWS**
-
+ 🌱 I’m currently open to remote jobs
+ 
 💬 Ask me about ** flutter app Node.js, React, Firebase... or anything [here]()**
 
 ⚡ Fun fact ** I work very fast **
@@ -70,9 +70,5 @@
 <hr/>
 
 <br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='chat with me' /></a>
-</div>
 
 <br/>
