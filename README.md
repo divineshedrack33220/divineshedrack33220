@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working in a tech company [Vaultwin Ltd](https://vaultwinltd.com)
+ 🔭 I’m currently working in a tech company [Vaultwin Ltd](https://vaultwinltd.com/team.php)
  
  🌱 I’m currently open to remote jobs
  
