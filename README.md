@@ -44,59 +44,18 @@
 <br/>
 <hr/>
 
-<h2 align="center">💼 Projects 💼</h2>
-<br/>
 <div align="center">
-
-### Project 1: [Project Name](#)
-- **Description:** Brief description of the project.
-- **Technologies Used:** List of technologies used.
-- **Link:** [GitHub Repository](#) | [Live Demo](#)
-
-### Project 2: [Project Name](#)
-- **Description:** Brief description of the project.
-- **Technologies Used:** List of technologies used.
-- **Link:** [GitHub Repository](#) | [Live Demo](#)
-
-### Project 3: [Project Name](#)
-- **Description:** Brief description of the project.
-- **Technologies Used:** List of technologies used.
-- **Link:** [GitHub Repository](#) | [Live Demo](#)
-
-</div>
-
-<br/>
-<hr/>
-
-<h2 align="center">🐍 Contributions 🐍</h2>
-<br/>
-<div align="center">
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div>
-<br/>
-<div align="center">
-
-### Contribution 1: [Repository Name](#)
-- **Description:** Brief description of the contribution.
-- **Technologies Used:** List of technologies used.
-- **Link:** [GitHub Repository](#) | [Pull Request](#)
-
-### Contribution 2: [Repository Name](#)
-- **Description:** Brief description of the contribution.
-- **Technologies Used:** List of technologies used.
-- **Link:** [GitHub Repository](#) | [Pull Request](#)
-
-### Contribution 3: [Repository Name](#)
-- **Description:** Brief description of the contribution.
-- **Technologies Used:** List of technologies used.
-- **Link:** [GitHub Repository](#) | [Pull Request](#)
-
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
 
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br/>
+<br>
 <div align="center">
   <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
