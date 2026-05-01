@@ -4,13 +4,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Divine+Shedrack!;" />
 </h1>
 
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A Senior Software Developer</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working in a tech company [Vaultwin Ltd](https://vaultwinltd.com)
+ 🔭 I’m currently working in a tech company [testudo Ltd]()
  
  🌱 I’m currently open to remote jobs
  
