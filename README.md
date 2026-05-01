@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working in a tech company [Testudo Ltd]()
+ ] I’m currently working in a tech company [Testudo Ltd]()
  
- 🌱 I’m currently open to remote jobs
+  I’m currently open to remote jobs
  
-💬 Ask me about Flutter app, Node.js, React, Firebase... or anything [here](divineshedrack1@gmail.com)
+ Ask me about Flutter app, Node.js, React, Firebase... or anything [here](divineshedrack1@gmail.com)
 
-⚡ Fun fact: I work very fast
+ Fun fact: I work very fast
 
 </div>
  
@@ -34,7 +34,7 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
@@ -44,13 +44,7 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+
 
 <hr/>
 
