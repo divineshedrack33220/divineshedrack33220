@@ -14,7 +14,7 @@
  
  🌱 I’m currently open to remote jobs
  
-💬 Ask me about Flutter app, Node.js, React, Firebase... or anything [here](mailto:divineshedrack1@gmail.com)
+💬 Ask me about Flutter app, Node.js, React, Firebase... or anything [here](divineshedrack1@gmail.com)
 
 ⚡ Fun fact: I work very fast
 
