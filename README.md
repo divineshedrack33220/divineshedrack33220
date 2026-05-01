@@ -54,12 +54,6 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-     
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=divineshedrack33220&theme=tokyonight&hide_border=true" alt="divineshedrack33220's GitHub Stats" />
-</div>
 
 <br/><br/>
 
